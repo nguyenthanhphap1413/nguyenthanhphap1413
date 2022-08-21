@@ -16,7 +16,7 @@
 
 # Hello Folks! 👋
 
- <img src="assets/gif_banner.gif" align="right" width= "200"  style="border-radius: 5%"/>
+ <img src="assets/gif_banner.gif" align="right" width= "240"  style="border-radius: 5%"/>
 
 I'm [Nguyen Thanh Phap (Luis Nguyen)](https://github.com/nguyenthanhphap1413). Currently, I'm Senior Specialist Mobile Deveope at FE CREDIT.
 
@@ -26,19 +26,19 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 
 <div>
 <a href="https://www.facebook.com/uchihathanhphap.uchiha/">
-  <img align="left" alt="Uchiha Thành Pháp | Facebook" width="40px" src="assets/ic_facebook.png" style="margin-right: 30px"/>
+  <img align="left" alt="Uchiha Thành Pháp | Facebook" width="40px" src="assets/ic_facebook.png" style="padding-right: 30px"/>
 </a>
 
 <a href="https://telegram.me/Phapnt">
-  <img align="left" alt="Nguyễn Thành Pháp| Telegram" width="40px" src="assets/ic_telegram.png" style="margin-right: 30px"/>
+  <img align="left" alt="Nguyễn Thành Pháp| Telegram" width="40px" src="assets/ic_telegram.png" style="padding-right: 30px"/>
 </a>
 
 <a href="skype:nguyenthanhphap1413?chat">
-  <img align="left" alt="Nguyễn Thành Pháp| Skype(live:nguyenthanhphap1413)" width="40px" src="assets/ic_skype.png" style="margin-right: 30px"/>
+  <img align="left" alt="Nguyễn Thành Pháp| Skype(live:nguyenthanhphap1413)" width="40px" src="assets/ic_skype.png" style="padding-right: 30px"/>
 </a>
 
 <a href="mailto:nguyenthanhphap1413@gmail.com">
-  <img align="left" alt="Nguyễn Thành Pháp| Gmail" width="40px" src="assets/ic_gmail.png" style="margin-right: 30px"/>
+  <img align="left" alt="Nguyễn Thành Pháp| Gmail" width="40px" src="assets/ic_gmail.png" style="padding-right: 30px"/>
 </a>
 
 <a href="">
@@ -55,6 +55,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <br />
 
 ## Languages and Tools ⚙️ :
+
 <div>
 <br>
 <img src="assets/ic_go.png" heigh= "44" width ="44" style="margin-right: 30px">
@@ -65,7 +66,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_xcode.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_vscode.png" heigh= "44" width ="44" style="margin-right: 30px">
 </div>
-
 
 </br>
 
@@ -82,13 +82,14 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 # Expert Skills 🎯 :
 
+<div>
 <br/>
 <img src="assets/f_flutter.png" width="150"   style="margin-right: 20px" />
 <img src="assets/f_dart.png" width="108" style="margin-right: 20px" />
 <img src="assets/f_android.png"  width="150" style="margin-right: 20px" />
 <img src="assets/f_ios.png" width="150" style="margin-right: 20px" />
-
 <br/>
+</div>
 
 # Other Skills 🎯 :
 
@@ -124,6 +125,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 
 ## UX/UI:
+
 <div>
 <br/>
 <img  alt="Zeplin" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_zeplin.png" style="margin-right: 30px"/>
@@ -177,9 +179,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <h2 align="center">Propcom</h2>
         <br />
         <br />
-      <a target="_blank">
             <div><img  width="45%" alt="iCollect" src="assets/ic_propcom.jpeg" style="border-radius: 10%" /></div>
-        </a>
         <br />
         <p align="center">
    <br>
@@ -193,9 +193,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
     <td width="50%" valign="top" align="center">
       <h2>Hasaki Training</h2>
       <br />
-        <a target="_blank">
          <div> <img src="assets/ic_hasaki.jpeg" width="45%" alt="Hasaki Training" style="border-radius: 10%"/></div>
-        </a>
       <br />
         <p align="center">
           <br>
