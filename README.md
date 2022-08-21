@@ -52,6 +52,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413)
 - 💬 Ask me about anything [here](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)
 
+<br></br>
+
 ## Languages and Tools ⚙️ :
 
 <div>
@@ -77,6 +79,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nguyenthanhphap1413&layout=compact&theme=radical" />
 </a>
 
+<br></br>
+
 # Expert Skills 🎯 :
 
 <div>
@@ -86,7 +90,10 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/f_ios.png" align="left" width="150" style="padding-right: 20px" />
 </div>
 
+
 # Other Skills 🎯 :
+
+<br></br>
 
 ## VERSION CONTROL:
 
@@ -106,6 +113,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 
 </div>
 
+<br></br>
 
 ## CI/CD:
 
@@ -116,6 +124,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
   <img  alt="Github-workflow" align="left" style="width:auto;height:50px;padding-right: 30px" src="assets/banner_github.png" style=""/>
 </a>
 
+<br></br>
+
 ## UX/UI:
 
 <div>
@@ -124,6 +134,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_sketch.png" style="padding-right: 30px"/>
 <div>
 
+<br></br>
 
 ## Services:
 
@@ -146,6 +157,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img  alt="Sentry" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_sentry.png">
 </a>
 
+
+<br></br>
 
 # Project 📂 :
 
