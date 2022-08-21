@@ -16,7 +16,7 @@
 
 # Hello Folks! 👋
 
- <img src="assets/gif_banner.gif" align="right" height="300" style="border-radius: 5%"/>
+ <img src="assets/gif_banner.gif" align="right" width= "200"  style="border-radius: 5%"/>
 
 I'm [Nguyen Thanh Phap (Luis Nguyen)](https://github.com/nguyenthanhphap1413). Currently, I'm Senior Specialist Mobile Deveope at FE CREDIT.
 
@@ -53,7 +53,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 - 💬 Ask me about anything [here](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)
 
 <br />
-# Languages and Tools ⚙️ :
+
+## Languages and Tools ⚙️ :
 
 <img src="assets/ic_go.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_android.png" heigh= "44" width ="44" style="margin-right:30px">
