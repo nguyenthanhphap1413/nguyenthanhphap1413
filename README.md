@@ -55,7 +55,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 ## Languages and Tools ⚙️ :
 
 <div align="left">
-<br>
 <img src="assets/ic_go.png" align="center" heigh= "56px" width ="56px" style="padding-right: 30px">
 <img src="assets/ic_android.png" align="center" heigh= "56px" width ="56px" style="padding-right:30px">
 <img src="assets/ic_dart.png" align="center" heigh= "56px" width ="56px" style="padding-right: 30px">
@@ -63,7 +62,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_java.png" align="center" heigh= "56px" width ="56px" style="padding-right: 30px">
 <img src="assets/ic_xcode.png" align="center" heigh= "56px" width ="56px" style="padding-right: 30px">
 <img src="assets/ic_vscode.png" align="center" heigh= "56px" width ="56px" style="padding-right: 30px">
-</br>
 </div>
 
 <p align="left">_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)</p>
