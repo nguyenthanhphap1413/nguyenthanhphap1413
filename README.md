@@ -55,7 +55,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <br />
 
 ## Languages and Tools ⚙️ :
-
+<br>
 <img src="assets/ic_go.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_android.png" heigh= "44" width ="44" style="margin-right:30px">
 <img src="assets/ic_dart.png" heigh= "44" width ="44" style="margin-right: 30px">
@@ -64,7 +64,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_xcode.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_vscode.png" heigh= "44" width ="44" style="margin-right: 30px">
 
-<br/>
+
+</br>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ToanMobile/ToanMobile/issues)_
 
