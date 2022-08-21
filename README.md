@@ -78,7 +78,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 </a>
 
 # Expert Skills 🎯 :
-
 <div>
 <br/>
 <img src="assets/f_flutter.png" align="left" width="150"  style="padding-right: 20px" />
@@ -113,7 +112,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 
 ## CI/CD:
 
-<br/>
 <a href="https://codemagic.io/start/">
   <img  alt="CI/CD | Codemagic" align="left" style="width:auto;height:50px;padding-right:30px"  src="assets/banner_codemagic.png" style="margin-right: 30px"/>
 </a>
@@ -124,7 +122,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 ## UX/UI:
 
 <div>
-<br/>
 <img  alt="Zeplin" align="left" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_zeplin.png" style="padding-right: 30px"/>
 <img  alt="Figma" align="left" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_figma.png" style="padding-right: 30px"/>
 <img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_sketch.png" style="padding-right: 30px"/>
@@ -133,7 +130,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 
 ## Services:
 
-<br/>
 <a href="https://getstream.io/chat/">
 <img  alt="Stream" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_streamchat.png">
 </a>
