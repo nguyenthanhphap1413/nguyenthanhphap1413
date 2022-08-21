@@ -46,13 +46,13 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 </a>
 </div>
 
-<br></br>
 
 - 🔭 I’m currently working on my project [iCollect](https://play.google.com/store/apps/details?id=com.fe.icollect&hl=vi&gl=US)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413)
 - 💬 Ask me about anything [here](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)
 
 <br />
+
 
 ## Languages and Tools ⚙️ :
 
