@@ -84,12 +84,12 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <div>
 <br/>
-<img src="assets/f_flutter.png" width="150"   style="margin-right: 20px" />
+<img src="assets/f_flutter.png" width="150"  style="margin-right: 20px" />
 <img src="assets/f_dart.png" width="108" style="margin-right: 20px" />
 <img src="assets/f_android.png"  width="150" style="margin-right: 20px" />
 <img src="assets/f_ios.png" width="150" style="margin-right: 20px" />
-<br/>
 </div>
+<br/>
 
 # Other Skills 🎯 :
 
@@ -131,8 +131,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <img  alt="Zeplin" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_zeplin.png" style="margin-right: 30px"/>
 <img  alt="Figma" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_figma.png" style="margin-right: 30px"/>
 <img  alt="Sketch" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_sketch.png" style="margin-right: 30px"/>
-<br/>
 <div>
+<br/>
 
 ## Services:
 
@@ -179,7 +179,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <h2 align="center">Propcom</h2>
         <br />
         <br />
-            <div><img  width="45%" alt="iCollect" src="assets/ic_propcom.jpeg" style="border-radius: 10%" /></div>
+            <div><img  width="45%" alt="iCollect" src="assets/ic_propcom.jpeg" style="border-radius: 16px" /></div>
         <br />
         <p align="center">
    <br>
@@ -193,7 +193,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
     <td width="50%" valign="top" align="center">
       <h2>Hasaki Training</h2>
       <br />
-         <div> <img src="assets/ic_hasaki.jpeg" width="45%" alt="Hasaki Training" style="border-radius: 10%"/></div>
+         <div> <img src="assets/ic_hasaki.jpeg" width="45%" alt="Hasaki Training" style="border-radius: 16px"/></div>
       <br />
         <p align="center">
           <br>
