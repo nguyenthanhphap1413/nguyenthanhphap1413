@@ -16,7 +16,7 @@
 
 # Hello Folks! 👋
 
- <img src="assets/gif_banner.gif" align="right" width= "240"  style="border-radius: 5%"/>
+ <img src="assets/gif_banner.gif" align="right" width= "260"  style="border-radius: 5%"/>
 
 I'm [Nguyen Thanh Phap (Luis Nguyen)](https://github.com/nguyenthanhphap1413). Currently, I'm Senior Specialist Mobile Deveope at FE CREDIT.
 
@@ -52,8 +52,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413)
 - 💬 Ask me about anything [here](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)
 
-<br></br>
-
 ## Languages and Tools ⚙️ :
 
 <div align="left">
@@ -67,6 +65,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_vscode.png" align="center" heigh= "44" width ="44" style="padding-right: 30px">
 </br>
 </div>
+
+
 
 <p align="left">_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)</p>
 <br></br>
