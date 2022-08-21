@@ -45,8 +45,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
   <img align="left" alt="Nguyễn Thành Pháp| Discord" width="40px" src="assets/ic_discord.png"/>
 </a>
 </div>
-
-<br/>
+<br></br>
 
 - 🔭 I’m currently working on my project [iCollect](https://play.google.com/store/apps/details?id=com.fe.icollect&hl=vi&gl=US)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413)
