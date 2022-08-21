@@ -71,27 +71,25 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <a href="https://github.com/nguyenthanhphap1413/nguyenthanhphap1413">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nguyenthanhphap1413&include_all_commits=true&show_icons=true&theme=radical" alt="Anurag's github stats" />
 </a>
-<br/>
+
 <a href="https://github.com/ToanMobile/ToanMobile">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nguyenthanhphap1413&layout=compact&theme=radical" />
 </a>
 
 # Expert Skills 🎯 :
+
 <div>
-<br/>
 <img src="assets/f_flutter.png" align="left" width="150"  style="padding-right: 20px" />
 <img src="assets/f_dart.png" align="left" width="108" style="padding-right: 20px" />
 <img src="assets/f_android.png"align="left"  width="150" style="padding-right: 20px" />
 <img src="assets/f_ios.png" align="left" width="150" style="padding-right: 20px" />
 </div>
-<br/>
 
 # Other Skills 🎯 :
 
 ## VERSION CONTROL:
 
-<br/>
 <div>
 <a href="https://git-scm.com/">
 <img src="assets/f_git.png" align="left" width="150"   style="padding-right: 20px" />
@@ -108,7 +106,6 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 
 </div>
 
-<br/>
 
 ## CI/CD:
 
@@ -126,7 +123,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img  alt="Figma" align="left" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_figma.png" style="padding-right: 30px"/>
 <img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_sketch.png" style="padding-right: 30px"/>
 <div>
-<br/>
+
 
 ## Services:
 
@@ -148,13 +145,10 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 </a><a href="https://sentry.io/">
 <img  alt="Sentry" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_sentry.png">
 </a>
-<br/>
 
-<br/>
 
 # Project 📂 :
 
-<br/>
 <table bordercolor="#66b2b2" style="border-radius: 10%">
   <tr align="center">
     <td width="50%" valign="top">
