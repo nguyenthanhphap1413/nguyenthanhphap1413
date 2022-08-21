@@ -70,8 +70,10 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <br></br>
 
 <div align="left">
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ToanMobile/ToanMobile/issues)
+<p>_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)
+</p>
 </div>
+
 <br></br>
 
 <a href="https://github.com/nguyenthanhphap1413/nguyenthanhphap1413">
@@ -159,7 +161,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <img  alt="Sentry" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_sentry.png">
 </a>
 <br/>
-
 
 <br/>
 
