@@ -55,6 +55,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <br />
 
 ## Languages and Tools ⚙️ :
+<div>
 <br>
 <img src="assets/ic_go.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_android.png" heigh= "44" width ="44" style="margin-right:30px">
@@ -63,6 +64,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_java.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_xcode.png" heigh= "44" width ="44" style="margin-right: 30px">
 <img src="assets/ic_vscode.png" heigh= "44" width ="44" style="margin-right: 30px">
+</div>
 
 
 </br>
@@ -122,12 +124,13 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 
 ## UX/UI:
-
+<div>
 <br/>
 <img  alt="Zeplin" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_zeplin.png" style="margin-right: 30px"/>
 <img  alt="Figma" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_figma.png" style="margin-right: 30px"/>
 <img  alt="Sketch" style="width:auto;height:50px;margin-right: 30px"  src="assets/f_sketch.png" style="margin-right: 30px"/>
 <br/>
+<div>
 
 ## Services:
 
@@ -175,7 +178,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
         <br />
         <br />
       <a target="_blank">
-            <img  width="45%" alt="iCollect" src="assets/ic_propcom.jpeg" style="border-radius: 10%" />
+            <div><img  width="45%" alt="iCollect" src="assets/ic_propcom.jpeg" style="border-radius: 10%" /></div>
         </a>
         <br />
         <p align="center">
@@ -191,7 +194,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
       <h2>Hasaki Training</h2>
       <br />
         <a target="_blank">
-          <img src="assets/ic_hasaki.jpeg" width="45%" alt="Hasaki Training" style="border-radius: 10%"/>
+         <div> <img src="assets/ic_hasaki.jpeg" width="45%" alt="Hasaki Training" style="border-radius: 10%"/></div>
         </a>
       <br />
         <p align="center">
