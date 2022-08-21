@@ -118,19 +118,19 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br/>
 <a href="https://codemagic.io/start/">
-  <img  alt="CI/CD | Codemagic" style="width:auto;height:50px;padding-right:30px, align:left"  src="assets/banner_codemagic.png" style="margin-right: 30px"/>
+  <img  alt="CI/CD | Codemagic" align="left" style="width:auto;height:50px;padding-right:30px"  src="assets/banner_codemagic.png" style="margin-right: 30px"/>
 </a>
 <a href="https://bitbucket.org/">
-  <img  alt="Github-workflow" style="width:auto;height:50px;padding-right: 30px align:left" src="assets/banner_github.png" style=""/>
+  <img  alt="Github-workflow" align="left" style="width:auto;height:50px;padding-right: 30px" src="assets/banner_github.png" style=""/>
 </a>
 
 ## UX/UI:
 
 <div>
 <br/>
-<img  alt="Zeplin" style="width:auto;height:50px;padding-right: 30px; align:left"  src="assets/f_zeplin.png" style="padding-right: 30px"/>
-<img  alt="Figma" style="width:auto;height:50px;padding-right: 30px; align:left"  src="assets/f_figma.png" style="padding-right: 30px"/>
-<img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px; align:left"  src="assets/f_sketch.png" style="padding-right: 30px"/>
+<img  alt="Zeplin" align="left" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_zeplin.png" style="padding-right: 30px"/>
+<img  alt="Figma" align="left" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_figma.png" style="padding-right: 30px"/>
+<img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px;"  src="assets/f_sketch.png" style="padding-right: 30px"/>
 <div>
 <br/>
 
@@ -138,22 +138,22 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br/>
 <a href="https://getstream.io/chat/">
-<img  alt="Stream" style="width:auto;height:50px;padding-right: 20px; align:left" src="assets/logo_streamchat.png">
+<img  alt="Stream" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_streamchat.png">
 </a>
 <a href="https://firebase.google.com/">
-<img  alt="Firebase"  style="width:auto;height:50px;padding-right: 20px;align:left" src="assets/logo_firebase.png">
+<img  alt="Firebase" align="left"  style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_firebase.png">
 </a>
 <a href="https://developers.google.com/">
-<img  alt="Googlemap"  style="width:auto;height:50px;padding-right: 20px; align:left" src="assets/logo_googlemap.png">
+<img  alt="Googlemap" align="left"  style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_googlemap.png">
 </a>
 <a href="https://www.sonarqube.org/">
-<img  alt="SonarCube"  style="width:auto;height:50px;padding-right: 20px; align:left" src="assets/logo_sonarqube.png">
+<img  alt="SonarCube" align="left"  style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_sonarqube.png">
 </a><a href="https://www.appsflyer.com/">
-<img  alt="Appsflyer"  style="width:auto;height:50px;padding-right: 20px;align:left" src="assets/logo_appsflyer.png">
+<img  alt="Appsflyer" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_appsflyer.png">
 </a>
 
 </a><a href="https://sentry.io/">
-<img  alt="Sentry"  style="width:auto;height:50px;padding-right: 20px;align:left" src="assets/logo_sentry.png">
+<img  alt="Sentry" align="left" style="width:auto;height:50px;padding-right: 20px;" src="assets/logo_sentry.png">
 </a>
 <br/>
 
