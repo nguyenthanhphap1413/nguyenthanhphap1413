@@ -51,8 +51,7 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413)
 - 💬 Ask me about anything [here](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)
 
-<br />
-
+<br></br>
 
 ## Languages and Tools ⚙️ :
 
@@ -67,8 +66,12 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_vscode.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
 </br>
 </div>
+
 <br></br>
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ToanMobile/ToanMobile/issues)_
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ToanMobile/ToanMobile/issues)
+
+<br></br>
 
 <a href="https://github.com/nguyenthanhphap1413/nguyenthanhphap1413">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nguyenthanhphap1413&include_all_commits=true&show_icons=true&theme=radical" alt="Anurag's github stats" />
