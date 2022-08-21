@@ -65,10 +65,9 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 <img src="assets/ic_java.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
 <img src="assets/ic_xcode.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
 <img src="assets/ic_vscode.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
-</div>
-
 </br>
-
+</div>
+<br></br>
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ToanMobile/ToanMobile/issues)_
 
 <a href="https://github.com/nguyenthanhphap1413/nguyenthanhphap1413">
