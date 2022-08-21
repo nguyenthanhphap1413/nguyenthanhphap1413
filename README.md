@@ -65,7 +65,8 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 </div>
 
 <br/>
-<p align="left">_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)</p>
+
+<span align="left">_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/nguyenthanhphap1413/nguyenthanhphap1413/issues)</span>
 
 <a href="https://github.com/nguyenthanhphap1413/nguyenthanhphap1413">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nguyenthanhphap1413&include_all_commits=true&show_icons=true&theme=radical" alt="Anurag's github stats" />
