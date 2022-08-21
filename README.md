@@ -58,13 +58,13 @@ I'm from VietNam 🇻🇳 , living in Ho Chi Minh City.
 
 <div>
 <br>
-<img src="assets/ic_go.png" heigh= "44" width ="44" style="padding-right: 30px">
-<img src="assets/ic_android.png" heigh= "44" width ="44" style="padding-right:30px">
-<img src="assets/ic_dart.png" heigh= "44" width ="44" style="padding-right: 30px">
-<img src="assets/ic_flutter.png" heigh= "44" width ="44" style="padding-right: 30px">
-<img src="assets/ic_java.png" heigh= "44" width ="44" style="padding-right: 30px">
-<img src="assets/ic_xcode.png" heigh= "44" width ="44" style="padding-right: 30px">
-<img src="assets/ic_vscode.png" heigh= "44" width ="44" style="padding-right: 30px">
+<img src="assets/ic_go.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
+<img src="assets/ic_android.png" align="left" heigh= "44" width ="44" style="padding-right:30px">
+<img src="assets/ic_dart.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
+<img src="assets/ic_flutter.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
+<img src="assets/ic_java.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
+<img src="assets/ic_xcode.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
+<img src="assets/ic_vscode.png" align="left" heigh= "44" width ="44" style="padding-right: 30px">
 </div>
 
 </br>
@@ -84,10 +84,10 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <div>
 <br/>
-<img src="assets/f_flutter.png" width="150"  style="padding-right: 20px" />
-<img src="assets/f_dart.png" width="108" style="padding-right: 20px" />
-<img src="assets/f_android.png"  width="150" style="padding-right: 20px" />
-<img src="assets/f_ios.png" width="150" style="padding-right: 20px" />
+<img src="assets/f_flutter.png" align="left" width="150"  style="padding-right: 20px" />
+<img src="assets/f_dart.png" align="left" width="108" style="padding-right: 20px" />
+<img src="assets/f_android.png"align="left"  width="150" style="padding-right: 20px" />
+<img src="assets/f_ios.png" align="left" width="150" style="padding-right: 20px" />
 </div>
 <br/>
 
@@ -98,16 +98,16 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <br/>
 <div>
 <a href="https://git-scm.com/">
-<img src="assets/f_git.png" width="150"   style="padding-right: 20px" />
+<img src="assets/f_git.png" align="left" width="150"   style="padding-right: 20px" />
 </a>
 <a href="https://github.com/">
-<img src="assets/f_github.png" width="150"   style="padding-right: 20px" />
+<img src="assets/f_github.png"  align="left"width="150"   style="padding-right: 20px" />
 </a>
 <a href="https://gitlab.com/">
-<img src="assets/f_gitlab.png" width="150"   style="padding-right: 20px" />
+<img src="assets/f_gitlab.png" align="left" width="150"   style="padding-right: 20px" />
 </a>
 <a href="https://bitbucket.org/">
-<img src="assets/f_bitbucket.png" width="200"   style="padding-right: 20px" />
+<img src="assets/f_bitbucket.png" align="left"  width="200"   style="padding-right: 20px" />
 </a>
 
 </div>
@@ -118,19 +118,19 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br/>
 <a href="https://codemagic.io/start/">
-  <img  alt="CI/CD | Codemagic" style="width:auto;height:50px;padding-right: 30px"  src="assets/banner_codemagic.png" style="margin-right: 30px"/>
+  <img  alt="CI/CD | Codemagic" style="width:auto;height:50px;padding-right:30px, align:left"  src="assets/banner_codemagic.png" style="margin-right: 30px"/>
 </a>
 <a href="https://bitbucket.org/">
-  <img  alt="Github-workflow" style="width:auto;height:50px;padding-right: 30px" src="assets/banner_github.png" style=""/>
+  <img  alt="Github-workflow" style="width:auto;height:50px;padding-right: 30px align:left" src="assets/banner_github.png" style=""/>
 </a>
 
 ## UX/UI:
 
 <div>
 <br/>
-<img  alt="Zeplin" style="width:auto;height:50px;padding-right: 30px"  src="assets/f_zeplin.png" style="padding-right: 30px"/>
-<img  alt="Figma" style="width:auto;height:50px;padding-right: 30px"  src="assets/f_figma.png" style="padding-right: 30px"/>
-<img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px"  src="assets/f_sketch.png" style="padding-right: 30px"/>
+<img  alt="Zeplin" style="width:auto;height:50px;padding-right: 30px; align:left"  src="assets/f_zeplin.png" style="padding-right: 30px"/>
+<img  alt="Figma" style="width:auto;height:50px;padding-right: 30px; align:left"  src="assets/f_figma.png" style="padding-right: 30px"/>
+<img  alt="Sketch" style="width:auto;height:50px;padding-right: 30px; align:left"  src="assets/f_sketch.png" style="padding-right: 30px"/>
 <div>
 <br/>
 
@@ -138,22 +138,22 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br/>
 <a href="https://getstream.io/chat/">
-<img  alt="Stream" style="width:auto;height:50px;padding-right: 20px" src="assets/logo_streamchat.png">
+<img  alt="Stream" style="width:auto;height:50px;padding-right: 20px; align:left" src="assets/logo_streamchat.png">
 </a>
 <a href="https://firebase.google.com/">
-<img  alt="Firebase"  style="width:auto;height:50px;padding-right: 20px" src="assets/logo_firebase.png">
+<img  alt="Firebase"  style="width:auto;height:50px;padding-right: 20px;align:left" src="assets/logo_firebase.png">
 </a>
 <a href="https://developers.google.com/">
-<img  alt="Googlemap"  style="width:auto;height:50px;padding-right: 20px" src="assets/logo_googlemap.png">
+<img  alt="Googlemap"  style="width:auto;height:50px;padding-right: 20px; align:left" src="assets/logo_googlemap.png">
 </a>
 <a href="https://www.sonarqube.org/">
-<img  alt="SonarCube"  style="width:auto;height:50px;padding-right: 20px" src="assets/logo_sonarqube.png">
+<img  alt="SonarCube"  style="width:auto;height:50px;padding-right: 20px; align:left" src="assets/logo_sonarqube.png">
 </a><a href="https://www.appsflyer.com/">
-<img  alt="Appsflyer"  style="width:auto;height:50px;padding-right: 20px" src="assets/logo_appsflyer.png">
+<img  alt="Appsflyer"  style="width:auto;height:50px;padding-right: 20px;align:left" src="assets/logo_appsflyer.png">
 </a>
 
 </a><a href="https://sentry.io/">
-<img  alt="Sentry"  style="width:auto;height:50px;padding-right: 20px" src="assets/logo_sentry.png">
+<img  alt="Sentry"  style="width:auto;height:50px;padding-right: 20px;align:left" src="assets/logo_sentry.png">
 </a>
 <br/>
 
